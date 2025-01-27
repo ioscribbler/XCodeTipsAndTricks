@@ -63,6 +63,7 @@ class TaskManager {
 <details>
 <summary><code>Part2: Multiple Cursors.swift</code></summary>
 <br>
+ 
 ```swift
  struct AccountDetailsResponse: Decodable {
     let name: String
@@ -73,5 +74,6 @@ class TaskManager {
     let accountRating: Int
 }
 ```
+
 </details>
 
