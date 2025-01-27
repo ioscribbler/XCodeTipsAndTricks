@@ -59,3 +59,19 @@ class TaskManager {
 }
 ```
 </details>
+
+<details>
+<summary><code>Part2: Multiple Cursors.swift</code></summary>
+<br>
+ ```swift
+ struct AccountDetailsResponse: Decodable {
+    let name: String
+    let age: Int
+    let email: String
+    let phoneNumber: String
+    let accessId: Int
+    let accountRating: Int
+}
+ ```
+</details>
+
