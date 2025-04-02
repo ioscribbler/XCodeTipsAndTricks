@@ -78,5 +78,5 @@ class TaskManager {
 </details>
 <details>
 <summary><code>Part3: Custom formatting</code></summary>
-<a href="https://gist.github.com/ioscribbler/8682707c0ca481d1770dda83d05ee309.js" target="_blank"><b>Gist</b></a>
+<a href="https://gist.github.com/ioscribbler/8682707c0ca481d1770dda83d05ee309" target="_blank"><b>Gist</b></a>
 </details>
